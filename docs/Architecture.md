@@ -1,0 +1,2 @@
+# Architecture
+StackLab uses a React/Vite frontend with a FastAPI backend and SQLite database. It features a Workspace pattern for complex state management, an Activity Dispatcher for global events, and standalone lab tools.
