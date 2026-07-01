@@ -120,8 +120,8 @@ Follow these steps to set up the project on a clean machine.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/budikusumafauzi-sketch/StackLab.git
-cd StackLab
+git clone https://github.com/budikusumafauzi-sketch/stacklab-v1.git
+cd stacklab-v1
 ```
 
 ### 2. Backend Setup
@@ -287,6 +287,14 @@ This project is considered feature-complete for its intended scope as a professi
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Browser Support
+
+- Google Chrome (Recommended)
+- Microsoft Edge
+- Mozilla Firefox
+
+Maintenance: Active
 
 ## Author
 
